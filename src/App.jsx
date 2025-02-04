@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-    <h1>hallo</h1>
+    <h1>My Favorite Contacts</h1>
     </>
   )
 }
